@@ -13,11 +13,6 @@ This project provides a Python-based solution for solving Sudoku puzzles using t
 
 - **`backtracking.py`**: Contains the backtracking algorithm for solving Sudoku puzzles.
 - **`mastersuduko.py`**: Main script for running and interacting with the Sudoku solver.
-- **`requirements.py`**: List of dependencies required for the project.
+- **`requirements.py`**: aLL THE FUNCTION TO SOLVE THE PROBLEM.
 
-## Requirements
 
-Make sure you have the necessary dependencies installed before running the project. You can install the required Python libraries by running:
-
-```bash
-pip install -r requirements.py
